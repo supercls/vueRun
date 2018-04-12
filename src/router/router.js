@@ -9,7 +9,7 @@ export default [{
     children:[
         {
             path: '',
-            redirect: '/home'
+            redirect: '/home',
         },
         {
             path: '/home',

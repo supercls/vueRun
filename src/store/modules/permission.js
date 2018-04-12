@@ -1,2 +1,4 @@
-const permission=''
+const permission={
+	
+}
 export default permission
